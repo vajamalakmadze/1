@@ -1,0 +1,81 @@
+.image-1 {
+    width: 98%;
+    height: 250px;
+    margin: 10px;
+    position: relative;
+    border-radius: 20px;
+}
+h1 {
+    font-size: 30px;
+    margin-left: 10px;
+}
+.bg-wreper {
+    position: absolute;
+    top: 150px;
+    left: 30px;
+    right: 30px;
+    color: #fff;
+    transition: all 0.5s linear 0.3s;   /*მოკლე ჩანაწერი მაუსის მისვლის დროს პარამეტრები*/
+    display: block;
+}
+.bg-wreper:hover {
+    color: black;
+}
+button {
+    background-color: rgba(192, 225, 255, 0.479);
+    border-radius: 20px;
+    color: blue;
+    
+}
+.mshobeli {
+    margin: 10px;
+    width: 61%;
+    height: 540px;
+    background-color: brown;
+    display: inline-block;
+    float: left;
+    border-radius: 10px;
+}
+.mshobeli2 {
+    margin: 10px;
+    width: 34%;
+    height: 540px;
+    background-color: cyan;
+    display: inline-block;
+    float: right;
+    border-radius: 10px;
+}
+.parashuti {
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.pirveli {
+    height: 180px;
+}
+.pirveli1 {
+    height: 180px;
+}
+.pirveli2 {
+    height: 180px;
+}
+.image-2 {
+    width: 96%;
+    margin: 10px;
+    position: relative;
+    border-radius: 20px;
+}
+.mesame {
+    position: absolute;
+    margin: 20px;
+    color: red;
+    top: 44%;    
+}
+.clear {
+    clear: both;
+}
+.box2 {
+    display: block;
+}
